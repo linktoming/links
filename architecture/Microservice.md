@@ -1,0 +1,7 @@
+- [Microservices](http://martinfowler.com/articles/microservices.html#footnote-etymology)
+- [Case Study: Micro Services](http://samnewman.io/blog/2015/04/07/microservices-for-greenfield/)
+- <http://martinfowler.com/bliki/MicroservicePremium.html>
+- <http://martinfowler.com/bliki/BoundedContext.html>
+- <http://martinfowler.com/bliki/MicroservicePrerequisites.html>
+- <http://martinfowler.com/bliki/SacrificialArchitecture.html>
+- <http://martinfowler.com/bliki/MicroservicePremium.html>
